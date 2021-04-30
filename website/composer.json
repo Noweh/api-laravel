@@ -19,7 +19,7 @@
         "genealabs/laravel-model-caching": "^0.7.0",
         "giggsey/libphonenumber-for-php": "^8.11",
         "guzzlehttp/guzzle": "^6.4.0",
-        "laravel/framework": "6.6.*",
+        "laravel/framework": "6.20.*",
         "laravel/tinker": "^1.0",
         "malkusch/lock": "^2.1",
         "mtdowling/jmespath.php": "2.4.0",
